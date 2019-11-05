@@ -3,15 +3,16 @@ html, body {
     margin: 0px;
 }
 
-#second {
+#third {
     background:black;
     width: 800px;
     height: 800px;
     display: block;
+    opacity: 0,5;
 }
 
 
-.block-05 {
+#block-12 {
     background-color: white;
     width: 330px;
     height: 440px;
@@ -20,7 +21,7 @@ html, body {
     float: left;
 }
 
-.block-06 {
+#block-13 {
     background-color: red;
     width: 330px;
     height: 330px;
@@ -29,7 +30,7 @@ html, body {
     float: left;
 }
 
-.block-07 {
+#block-14 {
     background-color: rgb(4, 4, 129);
     width: 100px;
     height: 280px;
@@ -38,16 +39,16 @@ html, body {
     float: left;
 }
 
-.block-08 {
+#block-15 {
     background-color: rgb(4, 4, 129);
     width: 330px;
     height: 330px;
     margin-top: 10px;
     margin-left: 10px;
-    float: left;
+    float: none;
 }
 
-.block-09 {
+#block-16 {
     background-color: white;
     width: 160px;
     height: 440px;
@@ -56,19 +57,10 @@ html, body {
     float: left;
 }
 
-.block-10 {
+#block-17 {
     background-color: yellow;
     width: 160px;
     height: 440px;
-    margin-top: 10px;
-    margin-left: 10px;
-    float: left;
-}
-
-.block-11 {
-    background-color: red;
-    width: 100px;
-    height: 490px;
     margin-top: 10px;
     margin-left: 10px;
     float: left;
