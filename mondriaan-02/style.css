@@ -1,0 +1,153 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#second {
+    background:black;
+    width: 800px;
+    height: 800px;
+    display: block;
+}
+
+
+.block-05 {
+    background-color: white;
+    width: 330px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-06 {
+    background-color: red;
+    width: 330px;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-07 {
+    background-color: rgb(4, 4, 129);
+    width: 100px;
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-08 {
+    background-color: rgb(4, 4, 129);
+    width: 330px;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-09 {
+    background-color: white;
+    width: 160px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-10 {
+    background-color: yellow;
+    width: 160px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.block-11 {
+    background-color: red;
+    width: 100px;
+    height: 490px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+
+
+
+
+
+
+#second {
+    background:black;
+    width: 800px;
+    height: 800px;
+    display: block;
+    opacity: 0,5;
+}
+
+
+#block-05 {
+    background-color: white;
+    width: 330px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#block-06 {
+    background-color: red;
+    width: 330px;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#block-07 {
+    background-color: rgb(4, 4, 129);
+    width: 100px;
+    height: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#block-08 {
+    background-color: rgb(4, 4, 129);
+    width: 330px;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: none;
+}
+
+#block-09 {
+    background-color: white;
+    width: 160px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#block-10 {
+    background-color: yellow;
+    width: 160px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+#block-11 {
+    background-color: red;
+    width: 100px;
+    height: 490px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
