@@ -44,6 +44,7 @@ html, body {
     height: 330px;
     margin-top: 10px;
     margin-left: 10px;
+    margin-right: 200px;
     float: left;
 }
 
@@ -51,8 +52,8 @@ html, body {
     background-color: white;
     width: 160px;
     height: 440px;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-top: -440px;
+    margin-left: 350px;
     float: left;
 }
 
@@ -60,8 +61,8 @@ html, body {
     background-color: yellow;
     width: 160px;
     height: 440px;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-top: -440px;
+    margin-left: 520px;
     float: left;
 }
 
@@ -69,7 +70,7 @@ html, body {
     background-color: red;
     width: 100px;
     height: 490px;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-top: -490px;
+    margin-left: 690px;
     float: left;
 }

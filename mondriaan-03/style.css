@@ -8,60 +8,60 @@ html, body {
     width: 800px;
     height: 800px;
     display: block;
-    opacity: 0,5;
+    opacity: 1;
 }
 
 
 #block-12 {
-    background-color: white;
-    width: 330px;
-    height: 440px;
+    background-color: rgb(0, 0, 160);
+    width: 298px;
+    height: 656px;
     margin-top: 10px;
     margin-left: 10px;
     float: left;
 }
 
 #block-13 {
-    background-color: red;
-    width: 330px;
-    height: 330px;
+    background-color: white;
+    width: 208.81px;
+    height: 656px;
     margin-top: 10px;
     margin-left: 10px;
     float: left;
 }
 
 #block-14 {
-    background-color: rgb(4, 4, 129);
-    width: 100px;
-    height: 280px;
+    background-color: red;
+    width: 253.19px;
+    height: 253.19px;
     margin-top: 10px;
     margin-left: 10px;
     float: left;
 }
 
 #block-15 {
-    background-color: rgb(4, 4, 129);
-    width: 330px;
-    height: 330px;
-    margin-top: 10px;
-    margin-left: 10px;
-    float: none;
+    background-color: yellow;
+    width: 253.19px;
+    height: 253.19px;
+    margin-top: -394px;
+    margin-left: 537px;
+    float: left;
 }
 
 #block-16 {
-    background-color: white;
-    width: 160px;
-    height: 440px;
-    margin-top: 10px;
-    margin-left: 10px;
+    background-color: rgb(0, 0, 160);
+    width: 253.19px;
+    height: 253.19px;
+    margin-top: -132px;
+    margin-left: 537px;
     float: left;
 }
 
 #block-17 {
-    background-color: yellow;
-    width: 160px;
-    height: 440px;
-    margin-top: 10px;
+    background-color: red;
+    width: 516.81px;
+    height: 112.89px;
+    margin-top: -112.7px;
     margin-left: 10px;
     float: left;
 }
